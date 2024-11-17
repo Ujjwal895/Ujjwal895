@@ -15,7 +15,7 @@ I'm currently diving deeper into real-time data processing and cloud-based data 
 I'm looking to collaborate on data engineering, machine learning, and data analysis projects that make an impact.
 
 ## 📫 How to Reach Me
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/ujjwal-bajagain-9b786a287/)
+- [LinkedIn]((https://www.linkedin.com/in/ujjwal-bajagain-9b786a287/)
 - Email: ujjwalbajagain895@gmaul.com
 
 
