@@ -16,7 +16,7 @@ I'm looking to collaborate on data engineering, machine learning, and data analy
 
 ## 📫 How to Reach Me
 - [LinkedIn]((https://www.linkedin.com/in/ujjwal-bajagain-9b786a287/)
-- Email: ujjwalbajagain895@gmaul.com
+- Email: ujjwalbajagain895@gmail.com
 
 
 <!---
